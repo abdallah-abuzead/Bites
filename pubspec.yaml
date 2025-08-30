@@ -1,0 +1,111 @@
+name: bites
+description: "A new Flutter project."
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  # State Management
+  flutter_riverpod: ^3.0.0-dev.17
+  freezed_annotation: ^3.1.0
+  # Network
+  dio: ^5.9.0
+  # Dependency Injection
+  get_it: ^8.2.0
+  pretty_dio_logger: ^1.4.0
+  # Internet connection checker
+  internet_connection_checker_plus: ^2.7.2
+  requests_inspector: ^5.0.3
+  logger: ^2.6.1
+  # Utils
+  equatable: ^2.0.7
+  easy_localization: ^3.0.8
+  # Functional Programming
+  dartz: ^0.10.1
+
+  flutter_screenutil: ^5.9.3
+  # Storage
+  flutter_secure_storage: ^9.2.4
+
+  animated_splash_screen: ^1.3.0
+  flutter_svg: ^2.2.0
+  loading_animation_widget: ^1.3.0
+  lottie: ^3.3.1
+  fluttertoast: ^8.2.12
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  mockito: ^5.5.0
+  test: ^1.26.2
+  integration_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+  custom_lint: ^0.8.0
+  riverpod_lint: ^3.0.0-dev.17
+  freezed: ^3.2.0
+  build_runner: ^2.7.0
+  flutter_native_splash: ^2.4.6
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/svgs/
+    - assets/animations/
+    - assets/translations/
+
+  
+  fonts:
+    - family: Cairo
+      fonts:
+        - asset: assets/fonts/cairo/Cairo-Black.ttf
+        - asset: assets/fonts/cairo/Cairo-Bold.ttf
+        - asset: assets/fonts/cairo/Cairo-ExtraBold.ttf
+        - asset: assets/fonts/cairo/Cairo-ExtraLight.ttf
+        - asset: assets/fonts/cairo/Cairo-Light.ttf
+        - asset: assets/fonts/cairo/Cairo-Medium.ttf
+        - asset: assets/fonts/cairo/Cairo-Regular.ttf
+        - asset: assets/fonts/cairo/Cairo-SemiBold.ttf
+        - asset: assets/fonts/cairo/Cairo-VariableFont_slnt,wght.ttf
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
