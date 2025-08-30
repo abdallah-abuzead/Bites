@@ -15,11 +15,11 @@ Bites contain the minimal implementation required to create a new library or pro
 ## 📱 Screenshots of the application
 
 <div>
-    <img src="https://github.com/user-attachments/assets/c19faa29-23ad-498e-a834-af73221c8c2f" width="30%">
-    <img src="https://github.com/user-attachments/assets/87c11c62-5909-474c-b721-aea697fb00a7" width="30%">
-    <img src="https://github.com/user-attachments/assets/549b0af4-34eb-4892-88f1-a97dc7500f4e" width="30%">
-    <img src="https://github.com/user-attachments/assets/723e2642-66b8-481e-9001-eaff598dd8db" width="30%">
-    <img src="https://github.com/user-attachments/assets/0b308f31-b562-4f09-bbbb-bb09155138b9" width="30%">
+    <img src="https://github.com/user-attachments/assets/dfa1d8a3-9c4a-471e-9659-bce825382900" width="30%">
+    <img src="https://github.com/user-attachments/assets/5f3d2850-a640-4437-829e-36ec1accc96c" width="30%">
+    <img src="https://github.com/user-attachments/assets/c1637efa-79b0-4767-8f6f-80fdc370b651" width="30%">
+    <img src="https://github.com/user-attachments/assets/e24ec55f-2493-4f27-b421-83ad1bd0fc24" width="30%">
+    <img src="https://github.com/user-attachments/assets/f67de03f-d661-45a7-98b0-e9e7e277e8d8" width="30%">
 
 </div>
 
