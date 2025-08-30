@@ -11,9 +11,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import '../../../../core/networking/failures.dart';
-import '../../../../core/notifiers/toast.dart';
 import '../../../../core/utils/validator.dart';
 import '../../../../core/widgets/app_text_field.dart';
+import '../../../../core/widgets/notifiers/toast.dart';
 import '../../../contacts/presentation/providers/contacts_provider.dart';
 import '../../../nav_bar/presentation/screens/bottom_nav_bar_screen.dart';
 import '../../domain/entities/requests/login_request.dart';
